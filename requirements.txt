@@ -1,0 +1,10 @@
+psycopg2-binary
+flask
+flask_sqlalchemy
+gunicorn
+reportlab
+werkzeug 
+Procfile
+git init
+git add .
+git commit -m "first upload
